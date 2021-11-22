@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+ </head>
+  <body>
+ <table>
+  <tr>
+   <td colspan="4" id="result">0</td>
+  </tr>
+ </table>
+ </br>
+  </body>
+</html>
